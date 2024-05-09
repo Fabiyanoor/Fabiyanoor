@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Fabiyanoor
 - 👀 I’m interested in learning and working.
-- 🌱 I’m currently learning c++.
+- 🌱 I’m  master in c++ and microsoft office.
+  i am learning python.  
 - 💞️ I’m looking to learn and earn.
 - 😄 Pronouns: fa-ba-ya
-- ⚡ Fun fact: I want to earn money so bad.
+- ⚡ Fun fact: love to learn.
 - Ready to work but teach me first please.
 - I can work very hard ,that's the only thing i am good at.
 
